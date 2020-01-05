@@ -1,2 +1,2 @@
-# flowerpower
-The official repository for the Minecraft mod 'FlowerPower'
+# FlowerPower
+The official repository for the Minecraft mod 'FlowerPower'.
